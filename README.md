@@ -4,3 +4,5 @@ This GitHub repo is a companion to a blog I wrote on [Medium](https://medium.com
 #### The 3, 7 and 14 day simple moving average for the S&P 500: 
 ![ATR](images/average_true_range.png)
 
+#### Candlestick Graph of the S&P 500:
+![Candlestick](images/candlestick_graph.png)
